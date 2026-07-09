@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Ollama",
+    "url": "https://github.com/ollama/ollama",
+    "category": "runtime",
+    "use_case": "Local model serving",
+    "note": "Simple model pull/run workflow, widely supported by local tools."
+  },
+  {
+    "name": "llama.cpp",
+    "url": "https://github.com/ggml-org/llama.cpp",
+    "category": "runtime",
+    "use_case": "Low-level inference",
+    "note": "Fast C/C++ inference for GGUF models and CPU/GPU experiments."
+  },
+  {
+    "name": "Open WebUI",
+    "url": "https://github.com/open-webui/open-webui",
+    "category": "chat-ui",
+    "use_case": "Browser chat UI",
+    "note": "Popular local web UI for Ollama and OpenAI-compatible backends."
+  },
+  {
+    "name": "Continue",
+    "url": "https://github.com/continuedev/continue",
+    "category": "coding-assistant",
+    "use_case": "IDE assistant",
+    "note": "VS Code / JetBrains assistant that can use local models."
+  },
+  {
+    "name": "aider",
+    "url": "https://github.com/Aider-AI/aider",
+    "category": "coding-assistant",
+    "use_case": "Git-aware coding agent",
+    "note": "Terminal coding assistant that edits files through Git context."
+  },
+  {
+    "name": "whisper.cpp",
+    "url": "https://github.com/ggml-org/whisper.cpp",
+    "category": "speech",
+    "use_case": "Local speech recognition",
+    "note": "Lightweight local ASR using Whisper models."
+  },
+  {
+    "name": "AICommit",
+    "url": "https://github.com/yumiaura/AICommit",
+    "category": "small-utility",
+    "use_case": "Commit messages",
+    "note": "Offline AI commit messages with Ollama / llama.cpp backends."
+  },
+  {
+    "name": "vibe-trading-bot",
+    "url": "https://github.com/StaryMoon/vibe-trading-bot",
+    "category": "dashboard",
+    "use_case": "Trading research dashboard",
+    "note": "Risk-first paper/sandbox/live-gated crypto assistant with Obsidian reports."
+  }
+]
