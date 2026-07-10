@@ -54,5 +54,110 @@
     "category": "dashboard",
     "use_case": "Trading research dashboard",
     "note": "Risk-first paper/sandbox/live-gated crypto assistant with Obsidian reports."
+  },
+  {
+    "name": "vLLM",
+    "url": "https://github.com/vllm-project/vllm",
+    "category": "runtime",
+    "use_case": "Local/high-throughput serving",
+    "note": "Production-oriented LLM serving engine with OpenAI-compatible endpoints."
+  },
+  {
+    "name": "LMDeploy",
+    "url": "https://github.com/InternLM/lmdeploy",
+    "category": "runtime",
+    "use_case": "Local model serving",
+    "note": "Inference and deployment toolkit for LLMs and VLMs."
+  },
+  {
+    "name": "Jan",
+    "url": "https://github.com/janhq/jan",
+    "category": "chat-ui",
+    "use_case": "Desktop AI app",
+    "note": "Local-first desktop app for running and chatting with models."
+  },
+  {
+    "name": "AnythingLLM",
+    "url": "https://github.com/Mintplex-Labs/anything-llm",
+    "category": "chat-ui",
+    "use_case": "Knowledge base assistant",
+    "note": "Local/private RAG workspace for documents and team knowledge."
+  },
+  {
+    "name": "LibreChat",
+    "url": "https://github.com/danny-avila/LibreChat",
+    "category": "chat-ui",
+    "use_case": "Multi-provider chat UI",
+    "note": "Useful when mixing local and cloud providers."
+  },
+  {
+    "name": "Lobe Chat",
+    "url": "https://github.com/lobehub/lobe-chat",
+    "category": "chat-ui",
+    "use_case": "Multi-provider chat UI",
+    "note": "Polished chat UI that can connect to local and remote model providers."
+  },
+  {
+    "name": "Open Interpreter",
+    "url": "https://github.com/OpenInterpreter/open-interpreter",
+    "category": "coding-assistant",
+    "use_case": "Computer-use style assistant",
+    "note": "Local code execution and computer-control style workflows."
+  },
+  {
+    "name": "Tabby",
+    "url": "https://github.com/TabbyML/tabby",
+    "category": "coding-assistant",
+    "use_case": "Self-hosted code completion",
+    "note": "Local coding assistant server for teams and personal use."
+  },
+  {
+    "name": "Cline",
+    "url": "https://github.com/cline/cline",
+    "category": "coding-assistant",
+    "use_case": "Agentic IDE workflow",
+    "note": "VS Code coding agent that can work with local and remote model providers."
+  },
+  {
+    "name": "Roo Code",
+    "url": "https://github.com/RooVetGit/Roo-Code",
+    "category": "coding-assistant",
+    "use_case": "Agentic IDE workflow",
+    "note": "Agentic coding extension with multi-mode workflows."
+  },
+  {
+    "name": "FunASR",
+    "url": "https://github.com/modelscope/FunASR",
+    "category": "speech",
+    "use_case": "Speech recognition toolkit",
+    "note": "Speech recognition toolkit with streaming and offline scenarios."
+  },
+  {
+    "name": "ComfyUI",
+    "url": "https://github.com/comfyanonymous/ComfyUI",
+    "category": "visual-workflow",
+    "use_case": "Node-based image workflow",
+    "note": "Local visual generation workflow with reusable graph pipelines."
+  },
+  {
+    "name": "stable-diffusion-webui",
+    "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+    "category": "visual-workflow",
+    "use_case": "Image generation UI",
+    "note": "Classic local Stable Diffusion web UI with a large extension ecosystem."
+  },
+  {
+    "name": "Khoj",
+    "url": "https://github.com/khoj-ai/khoj",
+    "category": "personal-knowledge",
+    "use_case": "Personal AI second brain",
+    "note": "Local-first personal knowledge assistant with search and chat flows."
+  },
+  {
+    "name": "OpenHands",
+    "url": "https://github.com/All-Hands-AI/OpenHands",
+    "category": "agent-workspace",
+    "use_case": "Software agent workspace",
+    "note": "Agentic software-development workspace that can be connected to local providers."
   }
 ]
