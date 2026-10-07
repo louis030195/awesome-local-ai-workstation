@@ -159,5 +159,12 @@
     "category": "agent-workspace",
     "use_case": "Software agent workspace",
     "note": "Agentic software-development workspace that can be connected to local providers."
+  },
+  {
+    "name": "Screenpipe",
+    "url": "https://github.com/screenpipe/screenpipe",
+    "category": "personal-knowledge",
+    "use_case": "Screen and audio recall",
+    "note": "Search locally captured screen text and audio history through MCP or a local API. Source-available under the Screenpipe Commercial License; configured cloud AI, transcription, sync and integrations can transmit context off-device."
   }
 ]

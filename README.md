@@ -78,6 +78,7 @@ If you want a clean local AI workstation, start here:
 | Project | Use case | Notes |
 |---|---|---|
 | [Khoj](https://github.com/khoj-ai/khoj) | Personal AI second brain | Local-first personal knowledge assistant with search/chat flows. |
+| [Screenpipe](https://github.com/screenpipe/screenpipe) | Screen and audio recall | Search locally captured screen text and audio history through MCP or a local API. Source-available under the Screenpipe Commercial License; configured cloud AI, transcription, sync and integrations can transmit context off-device. |
 | [Obsidian Copilot](https://github.com/logancyang/obsidian-copilot) | Obsidian assistant | LLM assistant inside Obsidian notes. |
 | [vibe-trading-bot](https://github.com/StaryMoon/vibe-trading-bot) | Trading research dashboard | Risk-first paper/sandbox/live-gated crypto assistant with Obsidian reports. |
 | [DailyDesk](https://github.com/StaryMoon/DailyDesk) | Desktop planner | macOS glass desktop planner that can sit on the desktop like a local workflow widget. |
